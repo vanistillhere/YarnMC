@@ -10,3 +10,23 @@ port: 19132
 
 world: none
 # Defines what world the server should use. Set to "none" to not use a world; this means that chunk loading will not work, and players will be unable to move.
+
+offline: false
+# Defines whether the server should be in offline mode (you don't need an XBOX account to join) or not.
+
+maxPlayerCount: 10
+# Defines how many players can be on the server online.
+
+version: 1.19.60
+# This version will be the version that clients can connect to.
+
+motd: Hello
+# Message to shoe beneath the server name.
+
+### Terminal Settings
+
+chatLog: true
+# Decides whether all chat messages should be logged onto the terminal.
+
+joinLog: true
+# Decides whether all player joins and leaves should be logged onto the terminal.
