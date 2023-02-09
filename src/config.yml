@@ -1,0 +1,12 @@
+### Server Properties
+
+host: 0.0.0.0
+# ONLY CHANGE THIS IF YOU KNOW WHAT YOU'RE DOING!
+# Defines what IP YarnMC should bind to.
+
+port: 19132
+# ONLY CHANGE THIS IF YOU KNOW WHAT YOU'RE DOING!
+# Defines what port YarnMC should bind to.
+
+world: none
+# Defines what world the server should use. Set to "none" to not use a world; this means that chunk loading will not work, and players will be unable to move.

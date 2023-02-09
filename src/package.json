@@ -2,12 +2,16 @@
   "name": "yarnmc",
   "version": "1.0.0",
   "description": "YarnMC - A server host for Minecraft Bedrock Edition",
-  "main": "yarnmc.js",
+  "main": "yarn-mc.js",
   "repository": "https://github.com/vanistillhere/YarnMC.git",
   "author": "vanistillhere",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "./run.bat"
+    "start": "start cmd.exe /c \"server\\run.bat\""
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.23.0",
+    "yaml": "^2.2.1"
   }
 }

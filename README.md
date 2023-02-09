@@ -15,7 +15,7 @@ node .
 Windows:
 ```bat
 cd src
-./run.bat
+npm start
 REM or double click the run.bat file inside the src/ directory.
 ```
 
