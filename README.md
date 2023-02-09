@@ -1,6 +1,6 @@
 ## YarnMC
 ---
-### A server hosting program written in Node JS, with plugin support and more!<br><br>
+### A server hosting program for Minecraft: Bedrock Edition written in Node JS with plugin support and more!<br><br>
 ## Features:
 - 🔌 Plugin Support
 - 🌎 World Support
