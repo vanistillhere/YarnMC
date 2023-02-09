@@ -7,9 +7,16 @@
 - ⚙ Lots of Customization Settings!<br><br>
 ## FAQ:
 `How do I start the server?`<br>
+Linux:
 ```sh
 cd src
 node .
+```
+Windows:
+```bat
+cd src
+./run.bat
+REM or double click the run.bat file inside the src/ directory.
 ```
 
 `How do I start creating plugins for YarnMC?`
